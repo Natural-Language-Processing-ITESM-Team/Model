@@ -26,4 +26,4 @@ En síntesis, el algoritmo de BERTopic funciona de la siguiente manera:
 Finalmente, es importante decir que nosotros forzamos al algoritmo a obtener 5 topics, puesto que contamos con 5 motores de NLP. Si deseas saber más del funcionamiento de BERTopic o detalles de su implementación, aquí te dejamos el link a su documentación: [BERTopic](https://maartengr.github.io/BERTopic/index.html).
 
 ## Autor
-Abraham Gil Félix
+[Abraham Gil Félix](https://www.linkedin.com/in/abraham-gil-f%C3%A9lix-955a4a1a9/)
